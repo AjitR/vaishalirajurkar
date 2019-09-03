@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Secure site area"
+AuthUserFile "/home/e1r9nb0lht09/.htpasswds/public_html/passwd"
+require valid-user
